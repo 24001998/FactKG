@@ -138,7 +138,11 @@ Contributions are welcome! If you wish to improve the repository, submit a pull 
 For inquiries, please reach out to 24001998@student.buid.ac.ae.  
 If you encounter issues, open a **GitHub Issue** in this repository.
 
-👥 Team Members
+
+---
+
+
+## **👥 Team Members**
 Mohamed Alhashmi 24000162
 Hamed Almarzooqi 24000630
 Saleh Alharthi   24001998
