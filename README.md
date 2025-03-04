@@ -32,7 +32,7 @@ This repository enhances the FactKG framework by providing additional code and c
 Clone both the original FactKG repository and this extended implementation:
 ```bash
 git clone https://github.com/jiho283/FactKG.git
-git clone YOUR_REPOSITORY_LINK_HERE  # Replace with your GitHub repository link
+git clone https://github.com/24001998/FactKG.git
 ```
 Move into the main project directory:
 ```bash
